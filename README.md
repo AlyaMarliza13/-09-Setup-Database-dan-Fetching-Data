@@ -16,3 +16,9 @@
 > 
 >Berikut adalah hasil dari deploy project saya pada Vercel
 ![Screenshot](assets-report/01.png)
+
+* **Soal 2**
+> **Hasil Laporan Soal 2**
+> 
+>Berikut adalah hasil dari setup database untuk project saya pada Vercel menggunakan postgres
+![Screenshot](assets-report/02.png)
