@@ -40,8 +40,8 @@
 * **Soal 5**
 > **Hasil Laporan Soal 5**
 > 
->Berikut adalah hasil dari eksekusi kueri SQL pada penyimpanan basis data di Vercel saya.
->Via Vercel
+>Berikut adalah hasil dari push semua kode pemrograman dan hasil deploy dashboard
+>**Via Vercel**
 ![Screenshot](assets-report/05.png)
->Via Google Chrome
+>**Via Google Chrome**
 ![Screenshot](assets-report/06.png)
