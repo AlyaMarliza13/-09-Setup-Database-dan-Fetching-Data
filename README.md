@@ -22,3 +22,9 @@
 > 
 >Berikut adalah hasil dari setup database untuk project saya pada Vercel menggunakan postgres
 ![Screenshot](assets-report/02.png)
+
+* **Soal 3**
+> **Hasil Laporan Soal 3**
+> 
+>Berikut adalah hasil dari setup seed pada database untuk project saya pada Vercel menggunakan mengeksekusi file "seed.js"
+![Screenshot](assets-report/03.png)
