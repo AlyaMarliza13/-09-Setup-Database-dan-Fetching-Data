@@ -41,7 +41,9 @@
 > **Hasil Laporan Soal 5**
 > 
 >Berikut adalah hasil dari push semua kode pemrograman dan hasil deploy dashboard
+>
 >**Via Vercel**
 ![Screenshot](assets-report/05.png)
+>
 >**Via Google Chrome**
 ![Screenshot](assets-report/06.png)
